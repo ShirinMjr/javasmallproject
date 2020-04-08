@@ -1,0 +1,1 @@
+Write code to display the first 10 numbers of the fibonacci series.  (For example, the first few numbers are 1, 2, 3, 5, 8, 13, ...)
